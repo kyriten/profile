@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ossascyber
+- 👋 Hi, I’m Abimanyu, called Abi (pronounced in Bahasa, please)
 - 👀 Now i'm gaining my programming skills. Primary for C++ and Web Designer
 - 🌱 I’m currently learning html and css, than c++. Always to repeat it
 - 💞️ I’m a chairperson of IEEE Student Branch Pakuan University, who has my spirit on programming world. They are my favourite in my college
